@@ -112,7 +112,10 @@ Click on Notebook 1, "CML Basics" and follow the instructions there to learn how
 
 ![alt text](img/notebook.png)
 
+### References:
 
+#### 1. https://docs.cloudera.com/machine-learning/cloud/product/topics/ml-product-overview.html
+#### 2. https://www.cloudera.com/products/machine-learning.html
 
 
 
